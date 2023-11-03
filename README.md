@@ -1,8 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo17800
-Fork on GitHub5223
-<h1 align="center">Hi 👋, I'm Tatee</h1>
+<h1 align="center">Hi 👋, I'm SH</h1>
 <h3 align="center">A passionate student of system informatic from ID</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srihartatiupj&label=Profile%20views&color=0e75b6&style=flat" alt="srihartatiupj" /> </p>
